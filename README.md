@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi I am Abraham - Welcome!
 
+## About me
+I have faced challenges like digitising legacy IT infrastructure to help organisations transition to digital net zero whilst undergoing rapid business change to successfully deliver an initiative or project at scale. I have migrated Terabytes of unstructured data and deployed enterprise-level applications to the cloud, supporting over 20,000+ users across multiple geographic locations. I have managed budgets, vendors and stakeholders, overcoming language barriers, and cultural norms whilst applying regional data compliance policies. I am a committed team player, with leadership ability, who utilises high communication standards to establish positive interpersonal relationships, with a good sense of humour, professionalism & ethical integrity. I held roles such as Product Manager/Owner, Delivery Orchestration Lead, Scrum Master, Business Analyst and Project Manager. I possess a rudimentary understanding of the scaled agile framework and the Systems/Software Development Lifecycle (SDLC).
 <!--
 **ReturnOfAbs/ReturnOfAbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
