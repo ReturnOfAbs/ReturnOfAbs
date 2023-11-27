@@ -1,13 +1,22 @@
-### Hi, I am Abraham - Welcome!
-
-## About me
-I have faced challenges like digitising legacy IT infrastructure to help organisations transition to digital net zero whilst undergoing rapid business change to successfully deliver an initiative or project at scale. I have migrated Terabytes of unstructured data and deployed enterprise-level applications to the cloud, supporting over 20,000+ users across multiple geographic locations. I have managed budgets, vendors and stakeholders, overcoming language barriers, and cultural norms whilst applying regional data compliance policies. I am a committed team player, with leadership ability, who utilises high communication standards to establish positive interpersonal relationships, with a good sense of humour, professionalism & ethical integrity. I held roles such as Product Manager/Owner, Delivery Orchestration Lead, Scrum Master, Business Analyst and Project Manager. I possess a rudimentary understanding of the scaled agile framework and the Systems/Software Development Lifecycle (SDLC).
 
 # Abraham Audu - Technical Professional
 
 Greetings! I am Abraham Audu, a seasoned professional with a robust background in project management, digital transformation, and strategic leadership. My expertise spans the entire Software Development Life Cycle (SDLC), with a focus on orchestrating cloudification strategies for optimal operational efficiency. In my role as a Senior Consultant at Infosys Consulting, I have been instrumental in shaping innovative solutions, emphasizing my commitment to driving impactful change through strategic initiatives. Notably, my experience as a Technical Program Manager at BP showcases my proficiency in managing unstructured data migration in mergers and acquisitions (M&A) and executing cloudification strategies. Join me on a journey marked by strategic thinking, technical acumen, and a relentless pursuit of excellence in navigating the intricacies of today's dynamic business landscapes.
 
-[![LinkedIn](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png)](https://www.linkedin.com/in/abraham-audu-39ba8927/)
+[![LinkedIn](https://onedrive.live.com/embed?resid=A2D9CDEC6C07694B%21312296&authkey=%21ADPWtzaMqQH_6n0&width=48&height=48)](https://www.linkedin.com/in/abraham-audu-39ba8927/)
+[![Twitter](https://onedrive.live.com/embed?resid=A2D9CDEC6C07694B%21312391&authkey=%21ANFnY3forRc5Olc&width=48&height=48)](https://twitter.com/abraham_audu_7)
+
+## ✨Explore my AICore data engineering bootcamp journey 🚀 – where coding meets coffee-fuelled adventures!
+
+[![Github](https://onedrive.live.com/embed?resid=A2D9CDEC6C07694B%21312252&authkey=%21AI_zh6e5JeF8zfA&width=48&height=48)](https://github.com/AICoreCitizen)
+
+## ✨Upcoming Projects
+- Automated Software Testing
+- Python for Medical Imaging
+- Artificial Intelligence for Banking
+- Plus Others...
+
+
 
 <!--
 **ReturnOfAbs/ReturnOfAbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
